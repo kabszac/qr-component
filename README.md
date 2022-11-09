@@ -23,8 +23,8 @@ Challenge is to recreate this website of a QR only using HTML5 and CSS3
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kabszac/qr-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution url](https://github.com/kabszac/qr-component)
+- [Live site](https://kabszac.github.io/qr-component/)
 
 ### Built with
 
@@ -42,6 +42,5 @@ Building functional and responsive websites
 
 ## Author
 
-- Website - [Isaac Kuria](https://www.your-site.com)
-- Frontend Mentor - [@kabszac](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Isaac Kuria](https://kabszac.github.io/)
+- Frontend Mentor - [@kabszac](https://www.frontendmentor.io/profile/kabszac)
